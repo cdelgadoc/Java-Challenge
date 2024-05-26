@@ -1,4 +1,4 @@
-# Lenio Labs Java Challenge
+# Java Challenge
 
 Small API REST for account management
 
